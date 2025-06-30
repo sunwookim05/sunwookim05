@@ -1,4 +1,99 @@
+# 👋 Hi there, I'm **Sunwoo Kim**!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunwookim05&show_icons=true&theme=tokyonight)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwookim05&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+I'm a passionate **developer** and **educator** based in **Korea 🇰🇷**.  
+I love working on **low-level programming**, **embedded systems**, and sharing knowledge about **C programming** and **Git**.  
+Currently, I teach, build projects, and continuously learn new technologies to grow.  
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House  
+>
+> "The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie  
+>
+> "Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson  
+>
+> "Talk is cheap. Show me the code." — Linus Torvalds  
+>
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler  
+>
+> "Simplicity is the soul of efficiency." — Austin Freeman  
+
+---
+
+## 🛠️ **Tech Stack**
+
+### 🧑‍💻 Languages  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=verilog&logoColor=white" alt="Assembly" />
+</div>
+
+### 📱 Embedded & Mobile  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+</div>
+
+### 🛠️ Tools & IDEs  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white" alt="CLion" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
+</div>
+
+### 🧱 Build Tools & Compilers  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/GCC-353a42?style=flat-square&logo=gnu&logoColor=white" alt="GCC" />
+  <img src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnubash&logoColor=white" alt="Make" />
+  <img src="https://img.shields.io/badge/Makefile-3776AB?style=flat-square&logo=gnubash&logoColor=white" alt="Makefile" />
+</div>
+
+### 🖥️ Operating Systems  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=sunwookim05&show_icons=true&theme=tokyonight&animate=true&custom_title=Sunwoo%27s%20GitHub%20Stats&card_width=400" alt="GitHub Stats" width="400"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunwookim05&langs_count=10&layout=compact&theme=tokyonight&card_width=400" alt="Top Languages" width="400"/></td>
+</tr>
+<tr>
+<td><img src="https://streak-stats.demolab.com/?user=sunwookim05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/></td>
+<td><img src="https://github-profile-trophy.vercel.app/?username=sunwookim05&theme=tokyonight&column=7&margin-w=10&margin-h=15" alt="GitHub Trophy" width="400"/></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📫 How to reach me
+
+- 📧 Email: **sunwookim052@gmail.com**  
+- 📖 Blog: [sunwoo-psychiatric-ward.tistory.com](https://sunwoo-psychiatric-ward.tistory.com/)  
+- 📸 Instagram: [@sunwookim05](https://instagram.com/sunwookim05)
+
+---
+
+⭐️ If you like my work, feel free to connect or follow me here on GitHub!
