@@ -110,8 +110,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sunwookim05&show_icons=true&theme=tokyonight&animate=true&custom_title=Sunwoo%27s%20GitHub%20Stats&hide_border=true&card_width=400" alt="GitHub Stats" width="400"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunwookim05&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sunwookim05&show_icons=true&theme=transparent&animate=true&custom_title=Sunwoo%27s%20GitHub%20Stats&hide_border=true&card_width=400" alt="GitHub Stats" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunwookim05&langs_count=10&layout=compact&theme=transparent&hide_border=true&card_width=400" alt="Top Languages" width="400"/></td>
   </tr>
   <tr>
     <td><img src="https://streak-stats.demolab.com/?user=sunwookim05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/></td>
