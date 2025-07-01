@@ -1,8 +1,12 @@
-# 👋 Hi there, I'm **Sunwoo Kim**!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hi+there,+I'm+Sunwoo+Kim!&fontSize=40&fontColor=ffffff&fontAlign=50" alt="banner"/>
+</p>
 
-I'm a passionate **developer** and **educator** based in **Korea 🇰🇷**.  
-I love working on **low-level programming**, **embedded systems**, and sharing knowledge about **C programming** and **Git**.  
-Currently, I teach, build projects, support employment, and continuously learn new technologies to grow.  
+<p align="center" style="max-width: 600px; line-height: 1.6; font-size: 16px; margin-top: 8px;">
+  I'm a passionate <strong>developer</strong> and <strong>educator</strong> based in <strong>Korea 🇰🇷</strong>.<br/>
+  I love working on <strong>low-level programming</strong>, <strong>embedded systems</strong>, and sharing knowledge about <strong>C programming</strong> and <strong>Git</strong>.<br/>
+  Currently, I teach, build projects, support employment, and continuously learn new technologies to grow.
+</p>
 
 ---
 
