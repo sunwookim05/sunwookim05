@@ -2,24 +2,22 @@
 
 I'm a passionate **developer** and **educator** based in **Korea 🇰🇷**.  
 I love working on **low-level programming**, **embedded systems**, and sharing knowledge about **C programming** and **Git**.  
-Currently, I teach, build projects, and continuously learn new technologies to grow.  
-
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House  
->
-> "The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie  
->
-> "Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson  
->
-> "Talk is cheap. Show me the code." — Linus Torvalds  
->
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler  
->
-> "Simplicity is the soul of efficiency." — Austin Freeman  
+Currently, I teach, build projects, support employment, and continuously learn new technologies to grow.  
 
 ---
 
+## 💬 My Favorite Quotes
 
-## 🔥 My Best Project
+> 💡 *"Code is like humor. When you have to explain it, it’s bad."* — Cory House  
+> 🧠 *"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie  
+> 👥 *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson  
+> 💻 *"Talk is cheap. Show me the code."* — Linus Torvalds  
+> 🧑‍💻 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler  
+> ✨ *"Simplicity is the soul of efficiency."* — Austin Freeman  
+
+---
+
+## 🚀 My Best Project
 
 ### [Object-Oriented C Language](https://github.com/sunwookim05/Object-Oriented-C-Language)  
 An example project demonstrating how to implement object-oriented programming paradigms using pure C language.  
@@ -27,8 +25,16 @@ This project showcases encapsulation, inheritance, and polymorphism concepts app
 
 ---
 
+## 🎙️ Teaching, Mentoring & Public Speaking
 
-## 🛠️ **Tech Stack**
+- 👨‍🏫 Teaching **C Language**, **Git**, and **Arduino** to **university students** and secondary school students  
+- 🧭 Providing **career coaching and employment support** for students pursuing jobs in IT fields  
+- 🛠️ Leading **hands-on, project-based learning** on embedded systems and mobile app development  
+- 📢 Participating in **conferences and seminars** as a speaker and instructor  
+
+---
+
+## 🛠️ Tech Stack
 
 ### 🧑‍💻 Languages  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -98,11 +104,19 @@ This project showcases encapsulation, inheritance, and polymorphism concepts app
 
 ---
 
-## 📫 How to reach me
+## 📫 Let's Connect
 
-- 📧 Email: **sunwookim052@gmail.com**  
-- 📖 Blog: [sunwoo-psychiatric-ward.tistory.com](https://sunwoo-psychiatric-ward.tistory.com/)  
-- 📸 Instagram: [@sunwookim05](https://instagram.com/sunwookim05)
+<p align="left">
+  <a href="mailto:sunwookim052@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sunwookim052@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://sunwoo-psychiatric-ward.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-Blog-orange?style=flat&logo=tistory&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://instagram.com/sunwookim05">
+    <img src="https://img.shields.io/badge/Instagram-@sunwookim05-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
