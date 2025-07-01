@@ -41,15 +41,15 @@ This project showcases encapsulation, inheritance, and polymorphism concepts app
 ## 🛠️ Tech Stack
 
 ### 🧑‍💻 Languages  
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 2rem;">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=verilog&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=compilerexplorer&logoColor=white" alt="Assembly" />
 </div>
 
 ### 📱 Embedded & Mobile  
