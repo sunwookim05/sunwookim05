@@ -2,11 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hi+there,+I'm+Sunwoo+Kim!&fontSize=40&fontColor=ffffff&fontAlign=50" alt="banner"/>
 </p>
 
-<p align="center" style="max-width: 600px; line-height: 1.6; font-size: 16px; margin-top: 8px;">
-  I'm a passionate <strong>developer</strong> and <strong>educator</strong> based in <strong>Korea 🇰🇷</strong>.<br/>
-  I love working on <strong>low-level programming</strong>, <strong>embedded systems</strong>, and sharing knowledge about <strong>C programming</strong> and <strong>Git</strong>.<br/>
-  Currently, I teach, build projects, support employment, and continuously learn new technologies to grow.
-</p>
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Developer-0A66C2?style=for-the-badge&logo=c&logoColor=white" alt="Developer Badge"/>
+  <img src="https://img.shields.io/badge/Educator-FF6F00?style=for-the-badge&logo=bookstack&logoColor=white" alt="Educator Badge"/>
+</div>
+
+<div align="center" style="max-width: 700px; margin: auto; font-size: 16px; line-height: 1.6;">
+  <p><strong>👨‍💻 About Me</strong></p>
+  <p>
+    I'm a passionate <strong>Developer</strong> and <strong>Educator</strong> based in <strong>Korea 🇰🇷</strong>.<br/>
+    I love working on <strong>low-level programming</strong>, <strong>embedded systems</strong>, and sharing knowledge about <strong>C programming</strong> and <strong>Git</strong>.<br/>
+    Currently, I teach, build projects, support employment, and continuously learn new technologies to grow.
+  </p>
+</div>
+
 
 ---
 
@@ -23,9 +32,11 @@
 
 ## 🚀 My Best Project
 
-### [Object-Oriented C Language](https://github.com/sunwookim05/Object-Oriented-C-Language)  
-An example project demonstrating how to implement object-oriented programming paradigms using pure C language.  
-This project showcases encapsulation, inheritance, and polymorphism concepts applied in C, a language not originally designed for OOP.
+<p>
+  <a href="https://github.com/sunwookim05/Object-Oriented-C-Language">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunwookim05&repo=Object-Oriented-C-Language&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
@@ -119,6 +130,18 @@ This project showcases encapsulation, inheritance, and polymorphism concepts app
 - 📖 Blog: [sunwoo-psychiatric-ward.tistory.com](https://sunwoo-psychiatric-ward.tistory.com/)  
 - 📸 Instagram: [@sunwookim05](https://instagram.com/sunwookim05)
 
+⭐️ If you like my work, feel free to connect or follow me here on GitHub!
+
 ---
 
-⭐️ If you like my work, feel free to connect or follow me here on GitHub!
+<p>
+  <a href="https://www.buymeacoffee.com/sunwookim05" target="_blank">
+    <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-ffdd00?style=flat-square">
+  </a>
+</p>
+<p>
+  <i>
+    A cup of coffee a day helps me write better code and share more knowledge.<br/>
+    If you enjoy my work, please support me with a cup of coffee! ☕
+  </i>
+</p>
