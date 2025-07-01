@@ -2,13 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hi+there,+I'm+Sunwoo+Kim!&fontSize=40&fontColor=ffffff&fontAlign=50" alt="banner"/>
 </p>
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Developer-0A66C2?style=for-the-badge&logo=c&logoColor=white" alt="Developer Badge"/>
-  <img src="https://img.shields.io/badge/Educator-FF6F00?style=for-the-badge&logo=bookstack&logoColor=white" alt="Educator Badge"/>
-</div>
-
 <div align="center" style="max-width: 700px; margin: auto; font-size: 16px; line-height: 1.6;">
   <p><strong>👨‍💻 About Me</strong></p>
+  <img src="https://img.shields.io/badge/Developer-0A66C2?style=for-the-badge&logo=c&logoColor=white" alt="Developer Badge"/>
+  <img src="https://img.shields.io/badge/Educator-FF6F00?style=for-the-badge&logo=bookstack&logoColor=white" alt="Educator Badge"/>
   <p>
     I'm a passionate <strong>Developer</strong> and <strong>Educator</strong> based in <strong>Korea 🇰🇷</strong>.<br/>
     I love working on <strong>low-level programming</strong>, <strong>embedded systems</strong>, and sharing knowledge about <strong>C programming</strong> and <strong>Git</strong>.<br/>
