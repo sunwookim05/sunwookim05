@@ -128,9 +128,12 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: **sunwookim052@gmail.com**  
-- 📖 Blog: [sunwoo-psychiatric-ward.tistory.com](https://sunwoo-psychiatric-ward.tistory.com/)  
-- 📸 Instagram: [@sunwookim05](https://instagram.com/sunwookim05)
+- 📧 Email: ```sunwookim052@gmail.com```
+
+- 📖 Blog: [![Tistory](https://img.shields.io/badge/Tistory-Blog-black?style=flat&logo=tistory&logoColor=white)](https://sunwoo-psychiatric-ward.tistory.com/)
+
+- 📸 Instagram: [![Instagram](https://img.shields.io/badge/Instagram-@sunwookim05-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sunwookim05)
+
 
 ⭐️ If you like my work, feel free to connect or follow me here on GitHub!
 
