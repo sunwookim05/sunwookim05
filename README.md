@@ -93,16 +93,21 @@ This project showcases encapsulation, inheritance, and polymorphism concepts app
 
 <div align="center">
 
+<div align="center">
+
 <table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=sunwookim05&show_icons=true&theme=tokyonight&animate=true&custom_title=Sunwoo%27s%20GitHub%20Stats&card_width=400" alt="GitHub Stats" width="400"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunwookim05&langs_count=10&layout=compact&theme=tokyonight&card_width=400" alt="Top Languages" width="400"/></td>
-</tr>
-<tr>
-<td><img src="https://streak-stats.demolab.com/?user=sunwookim05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/></td>
-<td><img src="https://github-profile-trophy.vercel.app/?username=sunwookim05&theme=tokyonight&column=7&margin-w=10&margin-h=15" alt="GitHub Trophy" width="400"/></td>
-</tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sunwookim05&show_icons=true&theme=tokyonight&animate=true&custom_title=Sunwoo%27s%20GitHub%20Stats&hide_border=true&card_width=400" alt="GitHub Stats" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunwookim05&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://streak-stats.demolab.com/?user=sunwookim05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/></td>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=sunwookim05&theme=tokyonight&column=7&margin-w=10&margin-h=15" alt="GitHub Trophy" width="400"/></td>
+  </tr>
 </table>
+
+</div>
+
 
 </div>
 
@@ -110,17 +115,9 @@ This project showcases encapsulation, inheritance, and polymorphism concepts app
 
 ## 📫 Let's Connect
 
-<p align="left">
-  <a href="mailto:sunwookim052@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sunwookim052@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://sunwoo-psychiatric-ward.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-Blog-orange?style=flat&logo=tistory&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="https://instagram.com/sunwookim05">
-    <img src="https://img.shields.io/badge/Instagram-@sunwookim05-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+- 📧 Email: **sunwookim052@gmail.com**  
+- 📖 Blog: [sunwoo-psychiatric-ward.tistory.com](https://sunwoo-psychiatric-ward.tistory.com/)  
+- 📸 Instagram: [@sunwookim05](https://instagram.com/sunwookim05)
 
 ---
 
