@@ -17,7 +17,7 @@
 
 ## 🌟 What I’m Currently Working On
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E90FF&width=900&height=65&lines=Building+examples+and+libraries+for+Object-Oriented+Programming+in+C;Developing+interactive+learning+materials+for+my+students" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1E90FF&width=900&height=80&lines=Building+examples+and+libraries+for+Object-Oriented+Programming+in+C;Developing+interactive+learning+materials+for+my+students" alt="Typing SVG" />
 
 ---
 
